@@ -1,0 +1,15 @@
+torch
+transformers
+hazm
+scikit-learn
+joblib
+pandas
+numpy
+matplotlib
+tqdm
+
+
+Install with:
+```bash
+pip install torch transformers hazm scikit-learn joblib pandas numpy matplotlib tqdm
+```
